@@ -53,13 +53,8 @@ export const blogPosts = [
     title: "Day 1: City Tour",
     summary: "The web development landscape ...",
     content: [
-      "The web development landscape is constantly evolving, with new technologies and methodologies emerging every year. In 2023, several key trends are shaping how developers approach their craft.",
-      "First, the rise of AI-powered development tools is transforming how developers write code. From GitHub Copilot to AI-assisted debugging, these tools are making developers more productive than ever before.",
-      "Second, WebAssembly continues to gain traction, allowing developers to run high-performance code in the browser. This technology is enabling more complex applications to run directly in the browser without sacrificing performance.",
-      "Third, the Jamstack architecture is becoming increasingly popular for building fast, secure websites. By pre-rendering pages and serving them from a CDN, Jamstack sites offer excellent performance and security.",
-      "Fourth, serverless architectures are becoming more sophisticated, allowing developers to build complex applications without managing infrastructure. This approach reduces operational overhead and allows teams to focus on building features.",
-      "Finally, Web3 technologies are starting to move beyond the hype cycle into practical applications. While still evolving, these technologies are beginning to offer real solutions for decentralized applications.",
-      "As we move through 2023, these trends will continue to evolve and shape the future of web development. Staying informed about these developments is crucial for any developer looking to remain competitive in the industry.",
+      "Our first day was filled with a rich cultural journey through Manila’s historic heart. Walking through Intramuros, I felt like I was stepping back in time—the cobblestone streets and old Spanish architecture made history come alive. At Fort Santiago, I was fascinated by the stories of national hero José Rizal and the solemn atmosphere inside his prison cell. Rizal Park was a breath of fresh air—serene and symbolic—while the Manila Cathedral and San Agustin Church amazed me with their grand architecture and religious significance. Visiting the Cultural Center of the Philippines (CCP) gave me a glimpse of Filipino artistic expression, and we capped off the day with a fun and relaxing stroll along Mall of Asia’s baywalk, enjoying the cool breeze and sunset by the sea.",
+     
     ],
     image: ct0,
     category: "technology",
