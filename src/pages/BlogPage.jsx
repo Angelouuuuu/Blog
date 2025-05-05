@@ -50,7 +50,7 @@ const BlogPage = () => {
   return (
     <div className={styles.blogPage}>
       <div className={styles.headerSection}>
-        <h1 className={styles.pageTitle}>Blog & Events</h1>
+        <h1 className={styles.pageTitle}>Foreman's Tour 2025</h1>
         <p className={styles.pageSubtitle}>
           Explore our latest articles and upcoming events. Click on any post to view more details.
         </p>

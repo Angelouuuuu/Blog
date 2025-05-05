@@ -75,11 +75,9 @@ export const blogPosts = [
     title: "Day 2: It's Subic Bay Day!",
     summary: "A comprehensive overview of the biggest tech conference of the year and what we learned.",
     content: [
-      "We visited the SBMA Law Enforcement Department Communication Branch and the SBMA Seaport Department’s Vessel Traffic Management System (VTMS) in Subic Bay. During the tour, we were given an inside look into the daily operations of these vital departments and how they contribute to the safety and efficiency of the Subic Bay Freeport Zone.",
-      "One of the first things I noticed was the professional atmosphere. The environment was calm, orderly, and focused—there wasn’t much noise or chaos, despite the critical nature of their work. The staff moved with purpose, communicating efficiently without unnecessary distraction. It was clear that everyone understood their responsibilities and operated with a sense of discipline and coordination.",
-      "One of the first things I noticed was the professional atmosphere. The environment was calm, orderly, and focused—there wasn’t much noise or chaos, despite the critical nature of their work. The staff moved with purpose, communicating efficiently without unnecessary distraction. It was clear that everyone understood their responsibilities and operated with a sense of discipline and coordination.",
-      "Meanwhile, at the Vessel Traffic Management System, we observed how the team monitors ship movements in and out of the seaport. Using advanced radar and tracking systems, they ensure that all maritime activities are safely coordinated. The work is highly technical, but the staff handled it with precision and confidence.",
-      "What stood out to me the most was how professionalism and structure shaped their work culture. Even in a high-responsibility environment, there was a sense of quiet focus—no rushing, no confusion. This gave me a better appreciation for the behind-the-scenes efforts required to keep a port city running smoothly and safely.",
+      "On our second day, we shifted gears into a more technical and security-focused adventure. At the SBMA Law Enforcement Communication Branch, I was impressed by how well-organized and high-tech their operations were.",
+      "earning about their communication systems gave me new respect for the people keeping peace in the area. Then, at the Seaport Department’s Vessel Traffic Management System, I discovered how complex and precise port operations can be. ",
+      "Watching how ships are tracked and managed was like seeing a live strategy game in action—it made me appreciate the brains behind maritime logistics.",
     ],
     image: sb1,
     category: "events",
@@ -95,7 +93,9 @@ export const blogPosts = [
     title: "Day 3: Museum Day",
     summary: "Learn how to create a robust RESTful API using Node.js and Express framework.",
     content: [
-      "RESTful APIs are the backbone of modern web applications, enabling seamless communication between frontend and backend systems. In this tutorial, we'll walk through the process of building a robust API using Node.js and Express.",
+      "Day three was all about heritage and nature. Visiting the Museo ni Manuel L. Quezon gave me insight into the life and legacy of one of our country’s greatest presidents. I felt inspired by his leadership and the beautifully preserved artifacts that told his story.",
+      "At the National Museum of Natural History, I was in awe of the stunning exhibits—from Philippine wildlife to majestic tree canopies. It felt like exploring the wonders of nature under one roof, and I left with a deeper appreciation for our environment and biodiversity.",
+
     ],
     image: nm1,
     category: "tutorials",
@@ -112,7 +112,7 @@ export const blogPosts = [
     title: "Day 4: Hytec Power Inc.",
     summary: "Everything you need to know about CSS Grid Layout to create complex web layouts with ease.",
     content: [
-      "CSS Grid Layout has revolutionized how we design web layouts, offering a two-dimensional system that handles both columns and rows.",
+      "Hytec Power Inc., I witnessed the role of automation and innovation in industry. The machinery and technology used for power and training services were impressive—it showed me how technical knowledge turns into real-world applications.",
     ],
     image: lrt1,
     category: "tutorials",
@@ -129,7 +129,8 @@ export const blogPosts = [
     title: "Day 5: The Foreman Tour",
     summary: "Major tech company opens a state-of-the-art AI research facility focused on ethical AI development.",
     content: [
-      "In a move that underscores its commitment to artificial intelligence, a major tech giant announced today the opening of a new AI research laboratory.",
+      "Day five gave me a behind-the-scenes look at the systems that keep our city moving. At the LRT Line 2 Authority, I saw how public transportation is managed and maintained.",
+      "It was interesting to learn how trains are dispatched, monitored, and kept safe. The Traffic Engineering Center was equally eye-opening—seeing how traffic data is analyzed and how smart systems are used to ease congestion made me realize how much thought goes into making our roads safer and more efficient."
     ],
     image: d4,
     category: "news",
@@ -146,7 +147,8 @@ export const blogPosts = [
     title: "Day 6: D' Baguio City",
     summary: "Everything you need to know about CSS Grid Layout to create complex web layouts with ease.",
     content: [
-      "CSS Grid Layout has revolutionized how we design web layouts, offering a two-dimensional system that handles both columns and rows.",
+      "Our final day was a relaxing and refreshing escape to Baguio. Picking fresh strawberries at the Strawberry Farm was a sweet experience—literally and figuratively.",
+      "The Chinese Bell Church offered peace and cultural reflection, while the view at Mines View Park took my breath away. At Wright Park, riding horses and enjoying the pine-scented air was both calming and fun. Visiting the grand Mansion House made me feel like royalty, and we ended the day at Burnham Park, boating and laughing with friends. It was the perfect end to an unforgettable journey.",
     ],
     image: extra2,
     category: "tutorials",
