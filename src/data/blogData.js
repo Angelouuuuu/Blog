@@ -81,8 +81,8 @@ export const blogPosts = [
     ],
     image: sb1,
     category: "events",
-    author: "Michael Johnson",
-    date: "July 28, 2023",
+    author: "Necole Malbacias",
+    date: "April 08, 2025",
     gallery: [
       sb2, sb3, sb4, sb5
     ],
@@ -99,8 +99,8 @@ export const blogPosts = [
     ],
     image: nm1,
     category: "tutorials",
-    author: "Alex Rodriguez",
-    date: "June 15, 2023",
+    author: "Necole Malbacias",
+    date: "April 09, 2025",
     gallery: [
       nm2, nm3, nm4, nm5, mq1,mq2,mq3
     ],
@@ -116,8 +116,8 @@ export const blogPosts = [
     ],
     image: lrt1,
     category: "tutorials",
-    author: "David Kim",
-    date: "July 10, 2023",
+    author: "Necole Malbacias",
+    date: "April 10, 2025",
     gallery: [
       lrt2, lrt3, lrt4, lrt5, lrt6, lrt7, lrt8, lrt9,
     ],
@@ -134,8 +134,8 @@ export const blogPosts = [
     ],
     image: d4,
     category: "news",
-    author: "Sophia Lee",
-    date: "August 5, 2023",
+    author: "Necole Malbacias",
+    date: "April 11, 2025",
     gallery: [
       d2, d3, d5, d6, 
     ],
@@ -152,8 +152,8 @@ export const blogPosts = [
     ],
     image: extra2,
     category: "tutorials",
-    author: "David Kim",
-    date: "July 10, 2023",
+    author: "Necole Malbacias",
+    date: "April 12, 2025",
     gallery: [
       a, c,d,e , extra2, extra3
     ],
@@ -169,8 +169,8 @@ export const blogPosts = [
     ],
     image: day3,
     category: "tutorials",
-    author: "David Kim",
-    date: "July 10, 2023",
+    author: "Necole Malbacias",
+    date: "April 14, 2025",
     gallery: [
       day1, day2, day4 , day5,
     ],
