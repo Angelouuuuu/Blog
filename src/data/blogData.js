@@ -41,7 +41,7 @@ import e from "../assets/images/4.jpeg";
 import day1 from "../assets/images/Day1.jpg";
 import day2 from "../assets/images/Day1(2).jpg";
 import day4 from "../assets/images/Day1(4).jpg";
-import day5 from "../assets/images/Day1(5).jpeg";
+import day5 from "../assets/images/day1(5).jpeg";
 import day3 from "../assets/images/Day1(3).jpeg";
 
 
