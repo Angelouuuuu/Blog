@@ -51,7 +51,7 @@ export const blogPosts = [
   {
     id: 1,
     title: "Day 1: City Tour",
-    summary: "Explore the latest web development trends that are shaping the industry in 2023.",
+    summary: "The web development landscape ...",
     content: [
       "The web development landscape is constantly evolving, with new technologies and methodologies emerging every year. In 2023, several key trends are shaping how developers approach their craft.",
       "First, the rise of AI-powered development tools is transforming how developers write code. From GitHub Copilot to AI-assisted debugging, these tools are making developers more productive than ever before.",
@@ -73,7 +73,7 @@ export const blogPosts = [
   {
     id: 2,
     title: "Day 2: It's Subic Bay Day!",
-    summary: "A comprehensive overview of the biggest tech conference of the year and what we learned.",
+    summary: "On our second day, we shifted gears ...",
     content: [
       "On our second day, we shifted gears into a more technical and security-focused adventure. At the SBMA Law Enforcement Communication Branch, I was impressed by how well-organized and high-tech their operations were.",
       "earning about their communication systems gave me new respect for the people keeping peace in the area. Then, at the Seaport Department’s Vessel Traffic Management System, I discovered how complex and precise port operations can be. ",
@@ -91,7 +91,7 @@ export const blogPosts = [
   {
     id: 3,
     title: "Day 3: Museum Day",
-    summary: "Learn how to create a robust RESTful API using Node.js and Express framework.",
+    summary: "Day three was all about heritage...",
     content: [
       "Day three was all about heritage and nature. Visiting the Museo ni Manuel L. Quezon gave me insight into the life and legacy of one of our country’s greatest presidents. I felt inspired by his leadership and the beautifully preserved artifacts that told his story.",
       "At the National Museum of Natural History, I was in awe of the stunning exhibits—from Philippine wildlife to majestic tree canopies. It felt like exploring the wonders of nature under one roof, and I left with a deeper appreciation for our environment and biodiversity.",
@@ -110,7 +110,7 @@ export const blogPosts = [
   {
     id: 4,
     title: "Day 4: Hytec Power Inc.",
-    summary: "Everything you need to know about CSS Grid Layout to create complex web layouts with ease.",
+    summary: "Hytec Power Inc., I witnessed the role...",
     content: [
       "Hytec Power Inc., I witnessed the role of automation and innovation in industry. The machinery and technology used for power and training services were impressive—it showed me how technical knowledge turns into real-world applications.",
     ],
@@ -127,7 +127,7 @@ export const blogPosts = [
   {
     id: 5,
     title: "Day 5: The Foreman Tour",
-    summary: "Major tech company opens a state-of-the-art AI research facility focused on ethical AI development.",
+    summary: "Day five gave me a behind-the-scenes look ....",
     content: [
       "Day five gave me a behind-the-scenes look at the systems that keep our city moving. At the LRT Line 2 Authority, I saw how public transportation is managed and maintained.",
       "It was interesting to learn how trains are dispatched, monitored, and kept safe. The Traffic Engineering Center was equally eye-opening—seeing how traffic data is analyzed and how smart systems are used to ease congestion made me realize how much thought goes into making our roads safer and more efficient."
@@ -145,7 +145,7 @@ export const blogPosts = [
   {
     id: 6,
     title: "Day 6: D' Baguio City",
-    summary: "Everything you need to know about CSS Grid Layout to create complex web layouts with ease.",
+    summary: "Our final day was a ...",
     content: [
       "Our final day was a relaxing and refreshing escape to Baguio. Picking fresh strawberries at the Strawberry Farm was a sweet experience—literally and figuratively.",
       "The Chinese Bell Church offered peace and cultural reflection, while the view at Mines View Park took my breath away. At Wright Park, riding horses and enjoying the pine-scented air was both calming and fun. Visiting the grand Mansion House made me feel like royalty, and we ended the day at Burnham Park, boating and laughing with friends. It was the perfect end to an unforgettable journey.",
@@ -163,9 +163,9 @@ export const blogPosts = [
   {
     id: 7,
     title: "Day 7: Sepanx",
-    summary: "Everything you need to know about CSS Grid Layout to create complex web layouts with ease.",
+    summary: "As our tour came to an end, ...",
     content: [
-      "CSS Grid Layout has revolutionized how we design web layouts, offering a two-dimensional system that handles both columns and rows.",
+      "As our tour came to an end, Day 7 was a mix of emotions. While we were excited to go back home to Zamboanga, there was also a sense of sadness leaving behind the places and memories we made over the past week. The journey home was filled with laughter, reflections, and stories shared with friends. It was a peaceful ride that gave us time to look back on everything we learned and experienced. This tour not only gave us knowledge but also unforgettable moments we’ll carry with us for a long time.",
     ],
     image: day3,
     category: "tutorials",

@@ -52,8 +52,7 @@ const BlogPage = () => {
       <div className={styles.headerSection}>
         <h1 className={styles.pageTitle}>Foreman's Tour 2025</h1>
         <p className={styles.pageSubtitle}>
-          Explore our latest articles and upcoming events. Click on any post to view more details.
-        </p>
+        This blog shares our amazing journey across historical landmarks, modern institutions, and scenic spots during our educational tour. From the rich heritage of Manila to the technological wonders of SBMA and the refreshing beauty of Baguio, each day offered new insights, learning, and memorable experiences. Join us as we take you through the highlights of our 7-day adventure!        </p>
       </div>
 
       <div className={styles.controlsContainer}>
